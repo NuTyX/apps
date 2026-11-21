@@ -6,7 +6,7 @@ contributors="Tnut"
 
 makedepends=(rustc doxygen)
 name=inotify-tools
-version=4.26.270
+version=4.26.291
 
 source=(https://github.com/inotify-tools/inotify-tools/archive/$version/$name-$version.tar.gz)
 
