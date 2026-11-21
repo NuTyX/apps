@@ -128,6 +128,7 @@ drwxr-xr-x	root/root	usr/include/freerdp3/freerdp/locale/
 -rw-r--r--	root/root	usr/include/freerdp3/freerdp/log.h
 -rw-r--r--	root/root	usr/include/freerdp3/freerdp/message.h
 -rw-r--r--	root/root	usr/include/freerdp3/freerdp/metrics.h
+-rw-r--r--	root/root	usr/include/freerdp3/freerdp/multitransport.h
 -rw-r--r--	root/root	usr/include/freerdp3/freerdp/peer.h
 -rw-r--r--	root/root	usr/include/freerdp3/freerdp/pointer.h
 -rw-r--r--	root/root	usr/include/freerdp3/freerdp/primary.h
@@ -230,6 +231,7 @@ drwxr-xr-x	root/root	usr/include/winpr3/winpr/
 -rw-r--r--	root/root	usr/include/winpr3/winpr/cmdline.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/collections.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/comm.h
+-rw-r--r--	root/root	usr/include/winpr3/winpr/config-readers.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/config.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/cred.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/crt.h
@@ -242,6 +244,7 @@ drwxr-xr-x	root/root	usr/include/winpr3/winpr/
 -rw-r--r--	root/root	usr/include/winpr3/winpr/error.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/file.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/handle.h
+-rw-r--r--	root/root	usr/include/winpr3/winpr/i18n.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/image.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/ini.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/input.h
@@ -252,6 +255,7 @@ drwxr-xr-x	root/root	usr/include/winpr3/winpr/
 -rw-r--r--	root/root	usr/include/winpr3/winpr/library.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/memory.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/ncrypt.h
+-rw-r--r--	root/root	usr/include/winpr3/winpr/ndr.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/nt.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/ntlm.h
 -rw-r--r--	root/root	usr/include/winpr3/winpr/pack.h
