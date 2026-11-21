@@ -312,6 +312,9 @@ drwxr-xr-x	root/root	usr/lib/dracut/modules.d/70pcmcia/
 drwxr-xr-x	root/root	usr/lib/dracut/modules.d/70ppcmac/
 -rwxr-xr-x	root/root	usr/lib/dracut/modules.d/70ppcmac/load-thermal.sh
 -rwxr-xr-x	root/root	usr/lib/dracut/modules.d/70ppcmac/module-setup.sh
+drwxr-xr-x	root/root	usr/lib/dracut/modules.d/70qcom-adsp/
+-rwxr-xr-x	root/root	usr/lib/dracut/modules.d/70qcom-adsp/module-setup.sh
+-rwxr-xr-x	root/root	usr/lib/dracut/modules.d/70qcom-adsp/qcom-adsp-pre-udev.sh
 drwxr-xr-x	root/root	usr/lib/dracut/modules.d/70qemu-net/
 -rwxr-xr-x	root/root	usr/lib/dracut/modules.d/70qemu-net/module-setup.sh
 drwxr-xr-x	root/root	usr/lib/dracut/modules.d/70qemu/
@@ -342,6 +345,13 @@ drwxr-xr-x	root/root	usr/lib/dracut/modules.d/73pkcs11/
 -rwxr-xr-x	root/root	usr/lib/dracut/modules.d/73pkcs11/module-setup.sh
 drwxr-xr-x	root/root	usr/lib/dracut/modules.d/73tpm2-tss/
 -rwxr-xr-x	root/root	usr/lib/dracut/modules.d/73tpm2-tss/module-setup.sh
+drwxr-xr-x	root/root	usr/lib/dracut/modules.d/74chrony/
+-rwxr-xr-x	root/root	usr/lib/dracut/modules.d/74chrony/chrony-ntp-source.sh
+-rw-r--r--	root/root	usr/lib/dracut/modules.d/74chrony/chrony-wait.service
+-rw-r--r--	root/root	usr/lib/dracut/modules.d/74chrony/chrony.conf
+-rw-r--r--	root/root	usr/lib/dracut/modules.d/74chrony/chronyd.service
+-rwxr-xr-x	root/root	usr/lib/dracut/modules.d/74chrony/module-setup.sh
+-rwxr-xr-x	root/root	usr/lib/dracut/modules.d/74chrony/parse-ntp.sh
 drwxr-xr-x	root/root	usr/lib/dracut/modules.d/74cifs/
 -rwxr-xr-x	root/root	usr/lib/dracut/modules.d/74cifs/cifs-lib.sh
 -rwxr-xr-x	root/root	usr/lib/dracut/modules.d/74cifs/cifsroot.sh

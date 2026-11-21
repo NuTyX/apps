@@ -7,7 +7,7 @@ packager="spiky <spiky@nutyx.org>"
 makedepends=(pkgconf kmod asciidoctor systemd)
 
 name=dracut
-version=111
+version=112
 
 source=(https://github.com/dracut-ng/dracut-ng/archive/$version/$name-$version.tar.gz)
 
